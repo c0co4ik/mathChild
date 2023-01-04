@@ -140,19 +140,4 @@ nav li {
     padding-top: 3px;
   }
 
-  .wrapper{
-    display: flex;
-    flex-direction: column;
-  }
-
-  .answer-options{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-
-  .options{
-    width: 50%;
-  }
-
 }
