@@ -137,6 +137,7 @@ nav li {
 
   .nav__link {
     font-size: .6rem;
+    padding-top: 3px;
   }
 
   .wrapper{
